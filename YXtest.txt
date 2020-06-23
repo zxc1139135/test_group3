@@ -1,1 +1,2 @@
-LYX dao ci yi you.
+hello
+world
